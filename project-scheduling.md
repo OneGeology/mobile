@@ -22,22 +22,24 @@ graph LR;
 
 | **Task**                             | **Examples of option range**                                                                                       |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| Clear vision of end product(s)       | `clear vision/still deciding/no idea`                                                                              |
-| Number of deliverable(s)             | `website/app/documentation/poster/copy text`                                                                       |
+| Clear vision of end product(s)       | `clear vision`                                                                              |
+| Number of deliverable(s)             | `app/(website if required?)`                                                                       |
 | Requirements                         | `clearly defined/none`                                                                                             |
-| Understanding of users               | `internal/external/specialists/public/unknown` (users may not always be people, but other systems)                                                                    |
-| Funding                              | `full/limited/none/bids incoming/commercial`                                                                       |
-| Deadlines                            | `fixed/flexible/BGS-style/none`                                                                                    |
-| Frontend                             | `vanilla/frameworks`                                                                                               |
-| Middleware                           | `API/authentication/user accounts`                                                                                 |
-| Backend                              | `database(s)/corporate/open-source`                                                                                |
-| Ownership of development             | `in-house/co-developed/sub-contracted`                                                                             |
-| Data                                 | `complete/needs processing/needs collecting/realtime/updates`                                                      |
-| SNS                                  | `DNZ/linux/security/email/firewalls/new hardware`                                                                  |
+| Understanding of users               | `external/specialists/public` (users may not always be people, but other systems)                                                                    |
+| Funding                              | `full from OneGeology Budget`                                                                       |
+| Deadlines                            | `Flexible but ideally before Q3 2020`                                                                                    |
+| Frontend                             | `frameworks - https://github.com/TerriaJS/terriajs`                                                                                               |
+| Middleware                           | `API/authentication/user accounts - not required, all open data`                                                                                 |
+| Backend                              | `Existing web services`                                                                                |
+| Ownership of development             | `in-house`                                                                             |
+| Data                                 | `complete`  
+|
+| SNS                                  | `DNZ/linux/security/email/firewalls/new hardware`?                                                                  |
 | Testing                              | `stakeholder engagement/fit with iterative agile development/prevision required/users availabilty/develop&deliver` |
-| Maintenance                          | `deliver and forget/regular maintenance by BGS/externally hosted`                                                  |
-| Team has all skills needed           | `yes/no`                                                                                                           |
-| Team needs skills from other team(s) | `yes/no`                                                                                                           |
-| New skills required                  | `training/courses/self-guided`                                                                                     |
-| Specialist domain knowledge needed   | `yes/no`                                                                                                           |
-| Corporate database required          | `yes/no
+| Maintenance                          | `regular maintenance by OneGeology`
+|
+| Team has all skills needed           | `yes`                                                                                                           |
+| Team needs skills from other team(s) | `no`                                                                                                           |
+| New skills required                  | `self-guided`                                                                                     |
+| Specialist domain knowledge needed   | `no`                                                                                                           |
+| Corporate database required          | `no
