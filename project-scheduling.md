@@ -32,14 +32,12 @@ graph LR;
 | Middleware                           | `API/authentication/user accounts - not required, all open data`                                                                                 |
 | Backend                              | `Existing web services`                                                                                |
 | Ownership of development             | `in-house`                                                                             |
-| Data                                 | `complete`  
-|
-| SNS                                  | `DNZ/linux/security/email/firewalls/new hardware`?                                                                  |
+| Data                                 | `complete`  |
+| SNS                                  | `DNZ/linux/security/email/firewalls/new hardware?`                                                                  |
 | Testing                              | `stakeholder engagement/fit with iterative agile development/prevision required/users availabilty/develop&deliver` |
-| Maintenance                          | `regular maintenance by OneGeology`
-|
+| Maintenance                          | `regular maintenance by OneGeology`|
 | Team has all skills needed           | `yes`                                                                                                           |
 | Team needs skills from other team(s) | `no`                                                                                                           |
 | New skills required                  | `self-guided`                                                                                     |
 | Specialist domain knowledge needed   | `no`                                                                                                           |
-| Corporate database required          | `no
+| Corporate database required          | `no|
